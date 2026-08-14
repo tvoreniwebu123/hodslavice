@@ -26,6 +26,7 @@ ochrana-osobnich-udaju.html
 assets/
 ```
 
+
 Na GitHub tedy nahraj přímo obsah rozbalené složky, ne další vnořenou složku. Vercel pak najde `index.html` automaticky a nebude padat na 404.
 
 ## Galerie
